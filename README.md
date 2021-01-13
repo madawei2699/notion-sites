@@ -1,5 +1,7 @@
 # Notion好站列表
 
+> 欢迎PR提交新的Notion站！
+
 | 地址 | 备注 |
 | --- | --- |
 | [ MEMERY SPACE](https://www.notion.so/MEMERY-SPACE-29b45a5134d74892b755f4249c1b23fb) | 生活不止眼前的苟且 |
