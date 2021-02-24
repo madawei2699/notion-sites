@@ -11,4 +11,4 @@
 | [BMPI的收藏夹](https://www.notion.so/mdw/a722ba82bf184833bb33628c85b18dae) | 收藏网站 |
 | [被动收入投资组合](https://www.notion.so/mdw/e0ed086e701a4d0aaa4839d2c7aa62ea) | 投资组合 |
 | [TransitiveBullsh.it](https://www.notion.so/TransitiveBullsh-it-78fc5a4b88d74b0e824e29407e9f1ec1) | [基于Notion做CMS的博客站](https://transitivebullsh.it/) |
-| [TASS 3.0 Project Manager](https://www.notion.so/mdw/TASS-3-0-Project-Manager-288e24403c5d4fa9a3d8b33f1e594646) | The Authority Site System 3.0 |
+| [TASS 3.0 Project Manager](https://www.notion.so/TASS-3-0-Project-Manager-efe172fb46d54d88a9a5876eeb7db3a3) | The Authority Site System 3.0 |
