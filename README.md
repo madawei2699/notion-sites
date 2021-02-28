@@ -12,3 +12,4 @@
 | [被动收入投资组合](https://www.notion.so/mdw/e0ed086e701a4d0aaa4839d2c7aa62ea) | 投资组合 |
 | [TransitiveBullsh.it](https://www.notion.so/TransitiveBullsh-it-78fc5a4b88d74b0e824e29407e9f1ec1) | [基于Notion做CMS的博客站](https://transitivebullsh.it/) |
 | [TASS 3.0 Project Manager](https://www.notion.so/TASS-3-0-Project-Manager-efe172fb46d54d88a9a5876eeb7db3a3) | The Authority Site System 3.0 |
+| [ ( y o u r )    h o m e  🌛](https://www.notion.so/y-o-u-r-h-o-m-e-1c5bb60c6e524322880972dcef04c56e) | 二次元版年度规划 |
