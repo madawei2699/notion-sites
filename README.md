@@ -13,3 +13,6 @@
 | [TransitiveBullsh.it](https://www.notion.so/TransitiveBullsh-it-78fc5a4b88d74b0e824e29407e9f1ec1) | [基于Notion做CMS的博客站](https://transitivebullsh.it/) |
 | [TASS 3.0 Project Manager](https://www.notion.so/TASS-3-0-Project-Manager-efe172fb46d54d88a9a5876eeb7db3a3) | The Authority Site System 3.0 |
 | [ ( y o u r )    h o m e  🌛](https://www.notion.so/y-o-u-r-h-o-m-e-1c5bb60c6e524322880972dcef04c56e) | 二次元版年度规划 |
+| [Personal OKRs](https://www.notion.so/Personal-OKRs-202c39deed554e09b8ad36e1d5780af9) | 个人OKR模版 |
+| [Company OKRs - Notion template](https://anotioneer.com/Company-OKRs-Notion-template-9e787e68ab9b4281ac29cf089494752e) | 公司OKR模版 |
+| [Achieve Your Goals: OKRs in Notion](https://www.notion.vip/achieve-your-goals-okrs-in-notion/) | 付费OKR模版 |
