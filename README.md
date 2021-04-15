@@ -17,3 +17,4 @@
 | [Company OKRs - Notion template](https://anotioneer.com/Company-OKRs-Notion-template-9e787e68ab9b4281ac29cf089494752e) | 公司OKR模版 |
 | [Achieve Your Goals: OKRs in Notion](https://www.notion.vip/achieve-your-goals-okrs-in-notion/) | 付费OKR模版 |
 | [读书笔记（老石谈芯）](https://www.notion.so/4a612dbc4ef54209ac489a05e29a6831) | 读书笔记 |
+| [春殿的手账本](https://www.notion.so/5a23e43b26e64651be75a22693564ce3) | 个人博客 |
