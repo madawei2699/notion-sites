@@ -18,3 +18,4 @@
 | [Achieve Your Goals: OKRs in Notion](https://www.notion.vip/achieve-your-goals-okrs-in-notion/) | 付费OKR模版 |
 | [读书笔记（老石谈芯）](https://www.notion.so/4a612dbc4ef54209ac489a05e29a6831) | 读书笔记 |
 | [春殿的手账本](https://www.notion.so/5a23e43b26e64651be75a22693564ce3) | 个人博客 |
+| [中文Newsletter导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6) | 收集中文领域的Newsletter |
