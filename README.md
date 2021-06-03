@@ -22,3 +22,4 @@
 | [装修经验教训](https://www.notion.so/66226e9a906740d9bb16914dd28577bb) | 装修一手被坑经验 |
 | [˗ˏˋ Dashboard ´ˎ˗](https://www.notion.so/Dashboard-3640553b7c374504ba7c76350811097c) | 很漂亮的个人Dashboard |
 | [The Vault - Nguyen's Design Resource stash](https://www.notion.so/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9) | 一个有14年设计经验的设计师收藏的关于设计的资源 |
+| [Nicolas Grenié](https://nicolasgrenie.com/Nicolas-Greni-c9c1f971c75248b1a3d6d0a40499cbf1) | Notion搭建的个人博客 |
