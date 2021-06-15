@@ -24,3 +24,4 @@
 | [The Vault - Nguyen's Design Resource stash](https://www.notion.so/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9) | 一个有14年设计经验的设计师收藏的关于设计的资源 |
 | [Nicolas Grenié](https://nicolasgrenie.com/Nicolas-Greni-c9c1f971c75248b1a3d6d0a40499cbf1) | Notion搭建的个人博客 |
 | [Designtips.Today](https://designtips.today/) | Design with better way |
+| [Leetao's Blog](https://leetao.vercel.app/) | 一个漂亮的个人博客 |
