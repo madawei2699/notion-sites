@@ -27,3 +27,4 @@
 | [Leetao's Blog](https://leetao.vercel.app/) | 一个漂亮的个人博客 |
 | [北疆10日线路规划](https://www.notion.so/10-0002ed7217f44621904dba142081f865) | 旅游 |
 | [信鑫 Blog](https://www.rustc.cloud/) | 一个简洁的个人技术博客 |
+| [Zi莱卷](https://iwfan.notion.site/) | [个人博客](https://iwfan.site/), Built with Notion & Next.js & Vercel |
